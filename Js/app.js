@@ -22,6 +22,11 @@ const songs = [
   "Chelovek Pauk Galdi",
   "Дай мне огня(Xcho)",
   "Alex Galagurskiy",
+  "Emirhan Not Afraid",
+  "Betxoven",
+  "Уляля (Гербер)",
+  "Amon - Mi Amore",
+  "Doudou - Edmofo",
 ];
 
 let indexSong = 8;
